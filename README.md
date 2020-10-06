@@ -1,4 +1,6 @@
-# Quasar + Speech API 🎤 🔉 
+[![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/patrickmonteiro/quasar-speech-api)
+
+# Quasar + Speech API 🎤 🔉
 
 Projeto de uma SPA desenvolvido com Quasar Framework + Speech API para capturar áudio e transformar em texto, ou utilizar um texto como base para a aplicação emitir um áudio.
 
